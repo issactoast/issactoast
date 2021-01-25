@@ -1,6 +1,4 @@
-### Hi there 👋
-
-Here are some ideas to get you started:
+### Hi there 👋 I am Issac!
 
 - 🔭 I’m currently working on Telematics data for driving analysis using GPS and Sensor data.
 - 🌱 I’m currently learning Machien learning and Deep learning in Actuarial Science feild.
